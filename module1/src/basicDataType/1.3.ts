@@ -26,6 +26,6 @@ const poorUser = {
 };
 
 // Map Array
-const array = [1, 5, 4, 30, 50];
+const array: number[] = [1, 5, 4, 30, 50];
 
 const newArray: number[] = array.map((elem: number): number => elem * elem);

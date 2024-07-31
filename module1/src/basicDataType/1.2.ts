@@ -3,7 +3,7 @@
 
   const user: {
     // readonly company: string; //Using readonly  can only be read and not modified
-    company: string; //type --> literal types
+    company: "ecoysoft"; //type --> literal types
     firstName: string;
     middleName?: string; //optional type
     lestName: string;
