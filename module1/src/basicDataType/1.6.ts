@@ -32,7 +32,6 @@
     age: 100,
     gender: "male",
     address: "bangladesh",
-    //   phoneNo: "0177",
   };
 
   //----- Variable-------
