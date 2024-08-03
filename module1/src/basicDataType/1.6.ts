@@ -45,4 +45,5 @@
   //----- Function-------
   type AddFunction = (a: number, b: number) => number;
   const add: AddFunction = (number1, number2) => number1 * number2;
+  add(1, 2);
 }
