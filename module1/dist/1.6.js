@@ -21,9 +21,9 @@
         age: 100,
         gender: "male",
         address: "bangladesh",
-        //   phoneNo: "0177",
     };
     const userName = "Abcd";
     const isAdmin = true;
     const add = (number1, number2) => number1 * number2;
+    add(1, 2);
 }
