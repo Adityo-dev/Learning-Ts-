@@ -21,6 +21,7 @@
     gender: "male",
     bloodGroup: "B+",
   }; */
+
   // -------intersection typ------
 
   type FrontendDeveloper = {
