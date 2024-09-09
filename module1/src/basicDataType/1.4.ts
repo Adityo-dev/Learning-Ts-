@@ -46,4 +46,10 @@
   };
 
   greetFriends("a", "b", "c", "d", "e", "f");
+
+  const greetFriends2 = (...friends: string[]) => {
+    friends.forEach((friend: string) => console.log(friend));
+  };
+
+  greetFriends2("a", "b", "c", "d", "e");
 }
